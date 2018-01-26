@@ -1,0 +1,9 @@
+{
+  "name": "yarn_flat101",
+  "version": "1.0.0",
+  "description": "Descripción del primer proyecto de Yarn para Flat 11",
+  "main": "index.js",
+  "repository": "https://github.com/mescobedozgzflat/yarn.git",
+  "author": "Miguel Escobedo",
+  "license": "MIT"
+}
